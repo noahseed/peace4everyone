@@ -29,7 +29,7 @@
         <meta property="og:site_name" content="PEACE for EVERYONE">
     </head>
     <body>
-        <main id="text">
+        <main>
             <h1>PEACE IN THE WORLD begins in <u>YOUR</u> plate.</h1>
             <form action="https://www.ecosia.org/search" method="GET">
                 <input type="hidden" value="vegan" name="q">
@@ -47,7 +47,7 @@
                 </p>
             </form>
         </main>
-        <footer id="barre_langues">
+        <footer>
             <nav>
                 <a href="https://paixpourtous.com/"><img src="images/drap_fr.gif" width="35" height="25" alt="Français"></a>
                 <a href="https://pacepertutti.com/"><img src="images/drap_it.gif" width="35" height="25" alt="Italiano"></a>
